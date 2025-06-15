@@ -1,0 +1,15 @@
+# Unity büyük ve gereksiz dosyalar
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+*.apk
+*.aab
+*.mp4
+*.psd
+*.zip
+*.exe
+*.dll
+*.DS_Store
